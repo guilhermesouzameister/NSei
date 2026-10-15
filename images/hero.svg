@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Featured render (placeholder)">
+  <rect width="800" height="1000" fill="#B4846C"/>
+  <g fill="#FEF4E8" fill-opacity="0.55"><rect x="365.9" y="191.0" width="68.2" height="108.5" rx="12.4"/><path d="M365.9 284.0 C 307.0 346.0, 307.0 377.0, 307.0 423.5 L307.0 721.1 Q307.0 749.0 334.9 749.0 L465.1 749.0 Q493.0 749.0 493.0 721.1 L493.0 423.5 C 493.0 377.0, 493.0 346.0, 434.1 284.0 Z"/></g>
+  <g font-family="Helvetica, Arial, sans-serif" fill="#2B1B17">
+    <text x="28" y="925" font-size="34" font-weight="600">Featured render</text>
+    <text x="28" y="965" font-size="26" opacity=".8">Placeholder · images/hero · 4:5, 1600 × 2000</text>
+  </g>
+</svg>
